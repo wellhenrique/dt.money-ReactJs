@@ -6,7 +6,7 @@
    <a href="https://www.linkedin.com/in/wellissonhenriques21/">
       <img alt="Welissonhenrique" src="https://img.shields.io/badge/-WellHenri-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <a href="mailto:britoleonne@gmail.com">
+  <a href="mailto:welissonh80@gmail.com">
    <img alt="Email" src="https://img.shields.io/badge/-welissonh80%40gmail.com-%23525DCB" />
   </a>
 </p>
@@ -33,8 +33,8 @@
 # :camera: Screenshots
 
 <div align="center">
-   <img src="././public/assets/screen1.png" width="400px">
-   <img src="././public/assets/screen2.png" width="400px">
+   <img src="./public/screen1.png" width="400px">
+   <img src="./public/screen2.png" width="400px">
 </div>
 
 # :rocket: Technologies
